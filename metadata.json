@@ -1,0 +1,9 @@
+{
+  "name": "Smart Rescue Coordination Platform",
+  "description": "A modern responsive platform for disaster management, helping citizens, rescue teams, and authorities coordinate during emergencies.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
